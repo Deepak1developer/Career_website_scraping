@@ -1,6 +1,6 @@
 # Career_website_scraping
 
-This is the code to scrap the data from cermati careers page.
+This is the code to scrap the data from careers page.
 
 Please follow the below steps:
 </br>
